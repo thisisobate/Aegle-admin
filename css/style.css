@@ -40,7 +40,6 @@ body {
   margin-left: 9%;
   margin-right: 2%;
   justify-content: space-evenly;
-  border: 2px solid red;
 }
 
 header {
@@ -72,6 +71,20 @@ header {
 .icon_holder {
   padding: 8px 8px;
   background: rgba(33, 158, 108, 0.1);
+  border-radius: 100px;
+  margin-right: 10px;
+}
+
+.icon_holder2 {
+  padding: 5px 8px;
+  background: rgba(223, 107, 8, 0.1);
+  border-radius: 100px;
+  margin-right: 10px;
+}
+
+.icon_holder3 {
+  padding: 5px 8px;
+  background: rgba(255, 190, 72, 0.1);
   border-radius: 100px;
   margin-right: 10px;
 }
@@ -109,7 +122,6 @@ aside {
   flex-direction: column;
   justify-content: space-evenly;
   width: 26%;
-  border: 2px solid red;
   margin-top: 34px;
   margin-bottom: 34px;
 }
@@ -140,7 +152,6 @@ aside {
 .map_section {
   width: 100%;
   padding: 1px;
-  border: 2px solid red;
 }
 
 /* // Animation =============================================
@@ -191,7 +202,6 @@ aside {
 } */
 
 .progress_section {
-  border: 2px solid red;
   width: 80%;
   position: relative;
 }
