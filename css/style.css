@@ -1,0 +1,27 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #f9f9fb;
+  color: #000000;
+}
+
+.sidenav {
+  height: 100vh;
+  width: 70px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.icon_container {
+  text-align: center;
+}
+
+.center {
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.navlink {
+  padding: 10px 0;
+}
